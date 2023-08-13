@@ -1,0 +1,26 @@
+{
+  "converter": [
+    {
+      "formula": "(Celsius * 9/5) + 32",
+      "units": 53.6,
+      "unittype": "F",
+      "info": "Celsius to Fahrenheit",
+      "id": 1
+    },
+    {
+      "formula": "(Celsius * 9/5) + 32",
+      "units": 55.4,
+      "unittype": "F",
+      "info": "Celsius to Fahrenheit",
+      "id": 2
+    },
+    {
+      "formula": "(Celsius * 9/5) + 32",
+      "units": "54",
+      "unittype": "F",
+      "info": "Celsius to Fahrenheit",
+      "id": 3
+    }
+    
+  ]
+}

@@ -1,0 +1,35 @@
+.main_wrapper{
+  height: 100vh;
+  width: 100%;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  background: radial-gradient(circle,#4272cf,#08295c);
+}
+.main_title{
+  font-size: 3rem;
+}
+.btn_danger_color{
+  background:#4b82e5!important;
+  border-color: #2e5bad !important;
+  color: #fff !important;
+  padding: 16px 20px!important;
+}
+
+.btn_danger_color:hover{
+  background: #0854c5
+}
+
+.label_text{
+  font-weight: 400;
+}
+input.form-control{
+  padding: 16px!important;
+}
+.result_value{
+  font-size: 5.5rem;
+  font-weight: 600;
+  color: #fff;
+}
